@@ -63,7 +63,8 @@ ua = # Enter your own from Redit
 reddit = praw.Reddit(client_id= cid, client_secret= csec, user_agent= ua)
 print(reddit.read_only)
 
-# To be Continued check out the above link
+# To be Continued ...
+# Check the Above Link for Reddit Scrapping Tool
 ```
 
 
