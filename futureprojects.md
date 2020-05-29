@@ -10,8 +10,7 @@ subtitle: These are projects I'd like to learn more about
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      One of the reasons I got into Data Science was learning about [Quantitative Investing].  
-      I'd like to learn about how to do [Financial Analysis] in hope I can explore more about algorithimic trading.
+      One of the reasons I got into Data Science was learning about [Quantitative Investing].  I'd like to learn about how to do [Financial Analysis] in hope I can explore more about algorithimic trading.
 
 ## Time Series Analysis
 <p align="center">
@@ -19,9 +18,7 @@ subtitle: These are projects I'd like to learn more about
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      Most of the data I've used has been with fixed data that isn't streaming.  
-      Therefore, this is a gap in my experience.
-      To get better at interacting with streaming data, I need to first learn about [Time-Series Analysis], and then I'll be have a better foundation to learn about [Streaming Data].
+      Most of the data I've used has been with fixed data that isn't streaming.  Therefore, this is a gap in my experience.To get better at interacting with streaming data, I need to first learn about [Time-Series Analysis], and then I'll be have a better foundation to learn about [Streaming Data].
 
 ## Setting Up A Home Server
 <p align="center">
@@ -29,9 +26,7 @@ subtitle: These are projects I'd like to learn more about
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      During my Advance Database course, we spent time reviewing several different Database Technologies.
-      This intrigued me, becuase I finally understood how to set up an environment and be able to remotely access this. 
-      I wanted this skill because it could help me set up a [Home Server] for personal hobbies projects but also help me create a Personal Development Environment.  Now I actually need to buy the hardware and start to play with it.
+      During my Advance Database course, we spent time reviewing several different Database Technologies.  This intrigued me, becuase I finally understood how to set up an environment and be able to remotely access this.  I wanted this skill because it could help me set up a [Home Server] for personal hobbies projects but also help me create a Personal Development Environment.  Now I actually need to buy the hardware and start to play with it.
 
 ## Motion Graphics
 <p align="center">
@@ -39,8 +34,7 @@ subtitle: These are projects I'd like to learn more about
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      I've played alittle bit with animated graphics/motion graphics, but they have only be a few seconds long (see above, & [see code]).
-      What I really wnat to do is to tell [Data Stories] through [Videos].  This skill would help me develop short videos for personal projects on social media and for professional communication/marketing.
+      I've played alittle bit with animated graphics/motion graphics, but they have only be a few seconds long (see above, & [see code]).  What I really wnat to do is to tell [Data Stories] through [Videos].  This skill would help me develop short videos for personal projects on social media and for professional communication/marketing.
       
 [Quantitative Investing]:https://towardsdatascience.com/the-austrian-quant-my-machine-learning-trading-algorithm-outperformed-the-sp500-for-10-years-bf7ee1d6a235
 [Financial Analysis]: https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054
