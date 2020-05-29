@@ -12,6 +12,7 @@ title: Skills & Courses
 * No-SQL: Beginner
 * Machine Learning: Intermediate 
 * Text Mining: Intermediate
+* GIS Mappining: Intermediate
 * Data Visualization: Intermediate
 * Git: Intermediate
 * Linux: Beginner
