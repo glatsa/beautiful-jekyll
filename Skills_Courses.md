@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Skills & Courses
+subtitle: Here are my skills with their associated proficiencies, and Data Science courses I've taken 
 ---
 
 ### Skills & Proficiency:
