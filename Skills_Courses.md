@@ -3,7 +3,7 @@ layout: page
 title: Skills & Courses
 ---
 
-### Skills:
+### Skills & Proficiency:
 * Python: Intermediate
 * R: Intermediate
 * Matlab: Beginner
