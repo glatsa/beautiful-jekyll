@@ -15,6 +15,7 @@ title: Skills & Courses
 * GIS Mappining: Intermediate
 * Data Visualization: Intermediate
 * Git: Intermediate
+* Markdown: Intermediate
 * Linux: Beginner
 * Excel: Advance
 
