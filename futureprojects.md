@@ -4,7 +4,7 @@ title: Other Projects & Learning Goals
 subtitle: These are projects I'd like to learn more about
 ---
 
-## Financial Analysis
+### Financial Analysis
 <p align="center">
   <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/Financial_Analysis.jpg" width="320" height="180" />
 </p>
@@ -12,7 +12,7 @@ subtitle: These are projects I'd like to learn more about
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       One of the reasons I got into Data Science was learning about [Quantitative Investing].  I'd like to learn about how to do [Financial Analysis] in hope I can explore more about algorithimic trading.
 
-## Time Series Analysis
+### Time Series Analysis
 <p align="center">
   <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/Time_Series.png "width="320" height="180" />
 </p>
@@ -20,7 +20,7 @@ subtitle: These are projects I'd like to learn more about
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Most of the data I've used has been with fixed data that isn't streaming.  Therefore, this is a gap in my experience.To get better at interacting with streaming data, I need to first learn about [Time-Series Analysis], and then I'll be have a better foundation to learn about [Streaming Data].
 
-## Setting Up A Home Server
+### Setting Up A Home Server
 <p align="center">
   <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/Home_Server.jpg" width="320" height="180" />
 </p>
@@ -28,7 +28,7 @@ subtitle: These are projects I'd like to learn more about
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       During my Advance Database course, we spent time reviewing several different Database Technologies.  This intrigued me, becuase I finally understood how to set up an environment and be able to remotely access this.  I wanted this skill because it could help me set up a [Home Server] for personal hobbies projects but also help me create a Personal Development Environment.  Now I actually need to buy the hardware and start to play with it.
 
-## Motion Graphics
+### Motion Graphics
 <p align="center">
   <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/GDP_Time.gif" width="200" height="200" />
 </p>
