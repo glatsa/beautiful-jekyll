@@ -54,7 +54,9 @@ from datetime import datetime
 import sys
 import pprint
 
-# Enter Personal API Info: addition info @ https://gilberttanner.com/blog/scraping-redditdata
+# Enter Personal API Info: 
+# addition info @ 
+# https://gilberttanner.com/blog/scraping-redditdata
 cid = # Enter your own from Redit
 csec = # Enter your own from Redit
 ua = # Enter your own from Redit
