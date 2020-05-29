@@ -34,7 +34,7 @@ subtitle: These are projects I'd like to learn more about
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      I've played alittle bit with animated graphics/motion graphics, but they have only be a few seconds long (see above, & [see code]).  What I really wnat to do is to tell [Data Stories] through [Videos].  This skill would help me develop short videos for personal projects on social media and for professional communication/marketing.
+      I've played alittle bit with animated graphics/motion graphics, but they have only be a few seconds long (see above & [see code]).  What I really wnat to do is to tell [Data Stories] through [Videos].  This skill would help me develop short videos for personal projects on social media and for professional communication/marketing.
       
 [Quantitative Investing]:https://towardsdatascience.com/the-austrian-quant-my-machine-learning-trading-algorithm-outperformed-the-sp500-for-10-years-bf7ee1d6a235
 [Financial Analysis]: https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054
