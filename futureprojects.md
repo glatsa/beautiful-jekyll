@@ -6,7 +6,7 @@ subtitle: These are projects I'd like to learn more about
 
 ### Financial Analysis
 <p align="center">
-  <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/Financial_Analysis.jpg" width="320" height="180" />
+  <img src="https://raw.githubusercontent.com/glatsa/glatsa.github.io/master/assets/img/Financial_Analysis.jpg" width="320" height="180" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@ subtitle: These are projects I'd like to learn more about
 
 ### Time Series Analysis
 <p align="center">
-  <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/Time_Series.png "width="320" height="180" />
+  <img src="https://raw.githubusercontent.com/glatsa/glatsa.github.io/master/assets/img/Time_Series.png" width="320" height="180" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@ subtitle: These are projects I'd like to learn more about
 
 ### Setting Up A Home Server
 <p align="center">
-  <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/Home_Server.jpg" width="320" height="180" />
+  <img src="https://raw.githubusercontent.com/glatsa/glatsa.github.io/master/assets/img/Home_Server.jpg" width="320" height="180" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@ subtitle: These are projects I'd like to learn more about
 
 ### Motion Graphics
 <p align="center">
-  <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/GDP_Time.gif" width="200" height="200" />
+  <img src="https://raw.githubusercontent.com/glatsa/glatsa.github.io/master/assets/img/GDP_Time.gif" width="200" height="200" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
