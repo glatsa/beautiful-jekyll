@@ -22,7 +22,7 @@ subtitle: These are projects I'd like to learn more about
 
 ## Setting Up A Home Server
 <p align="center">
-  <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/Home_Server.jpg" width="320" height="180"/>
+  <img src="https://github.com/glatsa/glatsa.github.io/blob/master/assets/img/Home_Server.jpg" width="320" height="180" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
