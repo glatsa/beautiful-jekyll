@@ -13,7 +13,7 @@ author: Some Person
 
 navbar-links:
   Portfolio: "Portfolio"
-  Skills: "Skills"
+  Skills & Courses: "Skills_Courses.md"
   Future Projects: "futureprojects"
 
 # --- Logo --- #
