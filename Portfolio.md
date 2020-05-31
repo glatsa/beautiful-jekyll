@@ -69,7 +69,6 @@ print(reddit.read_only)
 # Check the Above Link for Reddit Scrapping Tool
 ```
 
-
 [Champions Analysis]: https://raw.githubusercontent.com/glatsa/Graduate-School/master/IST%20687/IST%20687%20Final%20Project/IST%20687%20Final%20Project%20Code.R 
 [Flight Delay Analysis]: https://github.com/glatsa/Graduate-School/blob/master/IST%20719/IST%20719%20Final%20Project/IST%20719%20Final%20Project%20Code.R
 [Housing Market Analysis]: https://github.com/glatsa/Graduate-School/blob/master/IST%20652/IST%20652%20Final%20Project/IST%20652%20Final%20Project%20Code.ipynb
