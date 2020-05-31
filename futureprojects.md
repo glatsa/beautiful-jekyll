@@ -34,12 +34,12 @@ subtitle: These are projects I'd like to learn more about
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      I've played alittle bit with animated graphics/motion graphics, but they have only be a few seconds long (see above & [see code]).  What I really wnat to do is to tell [Data Stories] through [Videos].  This skill would help me develop short videos for personal projects on social media and for professional communication/marketing.
+      I've played alittle bit with animated graphics/motion graphics, but they have only be a few seconds long (see above & [see code]). I aspire to tell [Data Stories] through [Videos].  This skill would help me develop short videos for personal projects on social media and for professional communication/marketing.
       
-[Quantitative Investing]:https://towardsdatascience.com/the-austrian-quant-my-machine-learning-trading-algorithm-outperformed-the-sp500-for-10-years-bf7ee1d6a235
+[Quantitative Investing]: https://towardsdatascience.com/the-austrian-quant-my-machine-learning-trading-algorithm-outperformed-the-sp500-for-10-years-bf7ee1d6a235
 [Financial Analysis]: https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054
 [Time-Series Analysis]: https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b 
-[Streaming Data]:https://towardsdatascience.com/machine-learning-for-streaming-data-with-creme-dacf5fb469df
+[Streaming Data]: https://towardsdatascience.com/machine-learning-for-streaming-data-with-creme-dacf5fb469df
 [Home Server]: https://towardsdatascience.com/build-and-setup-your-own-deep-learning-server-from-scratch-e771dacaa252
 [see code]: https://github.com/glatsa/Graduate-School/blob/master/IST%20719/IST%20719%20Advance%20Topics%20Presentation/IST%20719%20Advance%20Topics%20Presentation%20Code.R
 [Data Stories]: https://towardsdatascience.com/animated-information-graphics-4531de620ce7
