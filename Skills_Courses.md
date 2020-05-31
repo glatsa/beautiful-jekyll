@@ -12,10 +12,12 @@ subtitle: Here are my skills with their associated proficiencies, and Data Scien
 * RDBMS: Beginner
 * No-SQL: Beginner
 * Machine Learning: Intermediate 
-* Interactive Dashboards: [Beginner] (https://glatsa.shinyapps.io/shinyapp/?_ga=2.165228223.1661269042.1590959023-1106921792.1590959023)
+* Interactive Dashboards: Beginner
+* Shiny: Beginner
 * Text Mining: Intermediate
 * GIS Mappining: Intermediate
 * Data Visualization: Intermediate
+* Web Scrapping: Beginner
 * Git: Intermediate
 * Markdown: Intermediate
 * Linux: Beginner
