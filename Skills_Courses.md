@@ -13,7 +13,7 @@ subtitle: Here are my skills with their associated proficiencies, and Data Scien
 * No-SQL: Beginner
 * Machine Learning: Intermediate 
 * Interactive Dashboards: Beginner
-* Shiny: Beginner
+* [Shiny]: Beginner
 * Text Mining: Intermediate
 * GIS Mappining: Intermediate
 * Data Visualization: Intermediate
@@ -32,3 +32,5 @@ subtitle: Here are my skills with their associated proficiencies, and Data Scien
 * Data Modeling
 * Data Visualization
 * Advance Database Concepts
+
+[Shiny]:https://glatsa.shinyapps.io/shinyapp/?_ga=2.165228223.1661269042.1590959023-1106921792.1590959023
