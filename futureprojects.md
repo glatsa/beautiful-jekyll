@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Projects & Learning Goals
+title: Future Development
 subtitle: These are projects I'd like to learn more about
 ---
 
