@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Future Development
+title: Exploration
 subtitle: Education is the kindling of a flame,<br />  not the filling of a vessel. - Socrates
 ---
 
