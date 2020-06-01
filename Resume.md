@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Resum&#130;
+title: Resumé
 ---
 
+To Do Later
 
