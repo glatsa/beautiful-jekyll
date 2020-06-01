@@ -5,23 +5,23 @@ subtitle: Here are my skills with their associated proficiencies, &nbsp; and Dat
 ---
 
 ### Skills & Proficiency:
+* Excel : Advance
 * Python : Intermediate
 * R : Intermediate
-* Matlab : Beginner
-* Tableau : Intermediate
-* RDBMS : Beginner
-* No-SQL : Beginner
 * Machine Learning : Intermediate 
-* Interactive Dashboards : Beginner
-* [Shiny] : Beginner
 * Text Mining : Intermediate
 * GIS Mappining : Intermediate
 * Data Visualization : Intermediate
+* Markdown : Intermediate
+* Tableau : Beginner
+* Matlab : Beginner
+* RDBMS : Beginner
+* No-SQL : Beginner
+* Interactive Dashboards : Beginner
 * Web Scrapping : Beginner
 * Git : Intermediate
-* Markdown : Intermediate
 * Linux : Beginner
-* Excel : Advance
+* [Shiny] : Beginner
 
 ### Courses:
 * Intro to Data Science with R
