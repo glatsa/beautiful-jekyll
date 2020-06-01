@@ -4,7 +4,7 @@ title: Portfolio
 ---
 
 ## R Project #1: 
-##    &nbsp;&nbsp;&nbsp;&nbsp; League of Legions Champions Analysis
+###    &nbsp;&nbsp;&nbsp;&nbsp; League of Legions Champions Analysis
 * First Data Science Project
 * Focused on Telling Story of Growing E-Sports Market
 * Analyzed 25000 games to determine most important features of characters and play against powerful characters
@@ -17,7 +17,7 @@ title: Portfolio
 </p>
 
 ## R Project #2: 
-##    &nbsp;&nbsp;&nbsp;&nbsp; Denver Airport Flight Departure Analysis
+###    &nbsp;&nbsp;&nbsp;&nbsp; Denver Airport Flight Departure Analysis
 * Analyzed 230,000 fights departing from Denver to understand departure & delay trends (obtained from the [FAA])
 * Created the below map weighting each line based upon the number of flights
 * Created 3 Multi-Demensional Vizualizations, to show performace for factors of Season, Airline, Destination, and Time of Day. 
@@ -29,7 +29,7 @@ title: Portfolio
 </p>
 
 ## Python Project #1: 
-##    &nbsp;&nbsp;&nbsp;&nbsp; Jefferson Housing Market Analysis
+###    &nbsp;&nbsp;&nbsp;&nbsp; Jefferson Housing Market Analysis
 * Analyzed 82,000+ real estate sale transaction in Jefferson County to understand the real estate markert (obtained from the [Jefferson County])
 * Successfully Webscrappted to Gather Additional Data 
 * Created a function to generate heat maps based upon given critera (sq. footage, price of home, qty of sales, etc..) 
@@ -41,7 +41,7 @@ title: Portfolio
 </p>
 
 ## Python Project #2: 
-##     &nbsp;&nbsp;&nbsp;&nbsp; Reddit Scrapping Tool
+###     &nbsp;&nbsp;&nbsp;&nbsp; Reddit Scrapping Tool
 * Successfully connected to [Reddit API] to obtain real time data
 * Used a function to filter comments and cleaned the comments with regular expressions
 * Used sentiment analsis and LDA models to create models about what factors for each topic  
