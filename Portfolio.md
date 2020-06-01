@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Portfolio
+subtitle: Highlights from my Master's coursework
 ---
 
 ## R Project #1: 
