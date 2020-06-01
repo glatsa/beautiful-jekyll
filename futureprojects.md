@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Future Development
-subtitle: These are aspects of Data Science I'd like to grow in
+subtitle: Education is the kindling of a flame,<br />  not the filling of a vessel. - unknown
 ---
 
 ### Financial Analysis
