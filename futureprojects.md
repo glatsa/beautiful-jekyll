@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Future Development
-subtitle: Education is the kindling of a flame,<br />  not the filling of a vessel. - unknown
+subtitle: Education is the kindling of a flame,<br />  not the filling of a vessel. - Socrates
 ---
 
 ### Financial Analysis
