@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Future Development
-subtitle: These are projects I'd like to learn more about
+subtitle: These are aspects of Data Science I'd like to grow in
 ---
 
 ### Financial Analysis
