@@ -7,9 +7,9 @@ subtitle: Highlights from my Masters coursework
 ## R Project #1: 
 ###    &nbsp;&nbsp;&nbsp;&nbsp; League of Legions Champions Analysis
 * First Data Science Project
-* Focused on Telling Story of Growing E-Sports Market
-* Analyzed 25000 games to determine most important features of characters and play against powerful characters
-* Created a Logistic Regression Models with 95% accuracy of determinging winning team
+* Growing e-sports market storytelling focused 
+* Analyzed 25,000 games to determine most important features of characters and play against powerful characters
+* Created a Logistic Regression Models with 95% accuracy of determining winning team
 * See Code for [Champions Analysis] 
 * See the Presentation about [League of Legions]
 
@@ -19,9 +19,9 @@ subtitle: Highlights from my Masters coursework
 
 ## R Project #2: 
 ###    &nbsp;&nbsp;&nbsp;&nbsp; Denver Airport Flight Departure Analysis
-* Analyzed 230,000 fights departing from Denver to understand departure & delay trends (obtained from the [FAA])
-* Created the below map weighting each line based upon the number of flights
-* Created 3 Multi-Demensional Vizualizations, to show performace for factors of Season, Airline, Destination, and Time of Day. 
+* Analyzed 230,000 fights departing from Denver to understand departure and delay trends (obtained from [FAA])
+* Created map (see below) weighting each line based upon the number of flights
+* Created three Multi-Dimensional Visualizations to show performance for four factors: season, airline, destination, and time  
 * See Code for [Flight Departure Analysis]
 * See the Presentation about the [Denver Airport]
 
@@ -31,9 +31,9 @@ subtitle: Highlights from my Masters coursework
 
 ## Python Project #1: 
 ###    &nbsp;&nbsp;&nbsp;&nbsp; Jefferson Housing Market Analysis
-* Analyzed 82,000+ real estate sale transaction in Jefferson County to understand the real estate markert (obtained from the [Jefferson County])
-* Successfully Webscrappted to Gather Additional Data 
-* Created a function to generate heat maps based upon given critera (sq. footage, price of home, qty of sales, etc..) 
+* Analyzed 82,000+ real estate sale transaction in Jefferson County to understand the real estate market (obtained from  [Jefferson County])
+* Successfully webscraped to gather additional data
+* Created a function to generate heat maps based upon given criteria (square footage, price of home, quantity of sales, etc.) 
 * See Code for [Housing Market Analysis]
 * See the Presentation about the [Jefferson Housing Market]
 
@@ -45,7 +45,7 @@ subtitle: Highlights from my Masters coursework
 ###     &nbsp;&nbsp;&nbsp;&nbsp; Reddit Scrapping Tool
 * Successfully connected to [Reddit API] to obtain real time data
 * Used a function to filter comments and cleaned the comments with regular expressions
-* Used sentiment analsis and LDA models to create models about what factors for each topic  
+* Used sentiment analysis and LDA models to create prediction models about what factors are influential for determining each subreddit 
 * See Code for [Reddit Scrapping Tool] 
 
 ```python
